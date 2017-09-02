@@ -10,6 +10,16 @@
   - You need let  browser access your micrphone
   - Speak wath you want 
   - Magic!
+  
+  
+ # Screenshots  
+ ### Before
+ [![N|Solid](https://raw.githubusercontent.com/cavalhier/cubo-voice-controller/master/screnshots/before-speek.png)](https://raw.githubusercontent.com/cavalhier/cubo-voice-controller/master/screnshots/before-speek.png)
+ 
+ ### After
+ 
+  [![N|Solid](https://raw.githubusercontent.com/cavalhier/cubo-voice-controller/master/screnshots/after-speek.png)](https://raw.githubusercontent.com/cavalhier/cubo-voice-controller/master/screnshots/after-speek.png)
+ 
 
 # Info!
 
